@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0705-design-hashset) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
