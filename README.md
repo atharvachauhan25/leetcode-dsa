@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
