@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -59,8 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0739-daily-temperatures) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
