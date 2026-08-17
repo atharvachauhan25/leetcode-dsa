@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0739-daily-temperatures) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
