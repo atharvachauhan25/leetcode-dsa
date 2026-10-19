@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0705-design-hashset) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0705-design-hashset) |
 ## Linked List
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/atharvachauhan25/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
